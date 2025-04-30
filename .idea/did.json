@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
+  ],
+  "id": "did:web:raw.githubusercontent.com:alexdiaz-puedata:gaia_ws:main",
+  "verificationMethod": [
+    {
+      "id": "did:web:raw.githubusercontent.com:alexdiaz-puedata:gaia_ws:main#ID1",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "rexY1A5Q4wfowmztVmqS44X4OuvRnYRF5oyqdrW2zpCz0XVqiMMq4WafCX3mB94mc6nr_fjBz_jBWm1kAMFLxZdZQB5HT402dbq81UN24nIhGuLXOzvdZNeuFH44J-o9xSGNv6mpV39V5xGjdlC2_oLHTTP2FwO4ykCg5WeLW13BH7odRkAgEqLkSQe4nzBN0JwgoDnJ1s59rI4Y2B6TQhjGEeDdPe6kI3mkXqW1-kEYbC63cSfYgn5GoAJfWJhUsZJwfYA9-GE-QCqxpSriLkwCJgq6l4O4tiCFOeXaBraXRyAcnFCSDwlEm5v8F-AEQqqf4rW0nixP7bdaJoW6WQ",
+        "e": "AQAB",
+        "alg": "RS256",
+        "x5u": "https://raw.githubusercontent.com/alexdiaz-puedata:gaia_ws:main/public_key.pem"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:alexdiaz-puedata:gaia_ws:main#ID1"
+  ]
+}
