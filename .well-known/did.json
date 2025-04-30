@@ -13,7 +13,7 @@
         "n": "rexY1A5Q4wfowmztVmqS44X4OuvRnYRF5oyqdrW2zpCz0XVqiMMq4WafCX3mB94mc6nr_fjBz_jBWm1kAMFLxZdZQB5HT402dbq81UN24nIhGuLXOzvdZNeuFH44J-o9xSGNv6mpV39V5xGjdlC2_oLHTTP2FwO4ykCg5WeLW13BH7odRkAgEqLkSQe4nzBN0JwgoDnJ1s59rI4Y2B6TQhjGEeDdPe6kI3mkXqW1-kEYbC63cSfYgn5GoAJfWJhUsZJwfYA9-GE-QCqxpSriLkwCJgq6l4O4tiCFOeXaBraXRyAcnFCSDwlEm5v8F-AEQqqf4rW0nixP7bdaJoW6WQ",
         "e": "AQAB",
         "alg": "RS256",
-        "x5u": "https://raw.githubusercontent.com/alexdiaz-puedata/gaia_workshop/main/public_key.pem"
+        "x5u": "https://alexdiaz-puedata.github.io/gaia_workshop/public_key.pem"
       }
     }
   ],
